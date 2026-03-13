@@ -1,0 +1,19 @@
+{
+  "name": "@barley-ci/cli",
+  "version": "0.0.1",
+  "description": "Barley CLI — local-first CI for the developer feedback loop",
+  "homepage": "https://github.com/barley-ci/barley#readme",
+  "bugs": {
+    "url": "https://github.com/barley-ci/barley/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barley-ci/barley.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "barley": "bin/barley.js"
+  }
+}
