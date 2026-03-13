@@ -3,7 +3,11 @@
 console.log(`
 🌾 Barley
 
-Local-first CI for the developer feedback loop.
+Local-First CI/CD platform that runs pipelines locally with instant feedback
 
-https://github.com/barley-ci/barley
-`);
+Commands:
+  barley validate
+  barley run
+  barley dev
+  barley graph
+`)
